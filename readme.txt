@@ -1,0 +1,3 @@
+ABOUT THE PROJECT ........
+
+learning figma for the first time and its tool used for web designers .
